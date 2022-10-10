@@ -9,4 +9,4 @@ yarn add -D css-loader style-loader
 yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 yarn add -D eslint prettier
 yarn add -D eslint-config-prettier eslint-plugin-eslint-comments eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks
-yarn add -D husky@4 lint-stage
+yarn add -D husky@4 lint-stage // masih tahap belajar menggunakan husky
